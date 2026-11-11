@@ -1,0 +1,13 @@
+# Core runtime dependencies inferred from project imports
+python-dotenv
+langchain-core
+langchain-community
+langchain-huggingface
+langchain-text-splitters
+langgraph
+langchain-chroma
+gradio
+--extra-index-url https://abetlen.github.io/llama-cpp-python/whl/cpu
+llama-cpp-python
+huggingface_hub
+sentence-transformers
